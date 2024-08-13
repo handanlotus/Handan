@@ -7,5 +7,7 @@ DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,discomax.com
 #onefootball
 DOMAIN-SUFFIX,onefootball.com
+DOMAIN-SUFFIX,oneftbl-cms.imgix.net
 DOMAIN-SUFFIX,onefootbalnurg.dataplane.rudderstack.com
 DOMAIN-KEYWORD，onefootball
+DOMAIN-KEYWORD，oneftbl
