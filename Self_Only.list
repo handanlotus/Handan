@@ -1,10 +1,10 @@
-# NAME: Football
+# NAME: Self_One
 #韩K联
 DOMAIN-SUFFIX,tv.kleague.com
 DOMAIN-SUFFIX,kleague.com
 #max
-DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,discomax.com
+#DOMAIN-SUFFIX,max.com
+#DOMAIN-SUFFIX,discomax.com
 #onefootball
 DOMAIN-SUFFIX,onefootball.com
 DOMAIN-SUFFIX,oneftbl-cms.imgix.net
