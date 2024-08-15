@@ -24,7 +24,7 @@ ruleset=⚽ Football,https://raw.githubusercontent.com/blackmatrix7/ios_rule_scr
 ruleset=⚽ Football,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DAZN/DAZN.list
 ruleset=⚽ Football,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/FuboTV/FuboTV.list
 ruleset=⚽ Football,https://raw.githubusercontent.com/handanlotus/Handan/main/Self_Only.list
-ruleset,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SkyGO/SkyGO.list,[]🇭🇰 香港
+RULE-SET, https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SkyGO/SkyGO.list, []🇭🇰 香港
 ruleset=🎥 Netflix,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
 ruleset=🎥 Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AmazonIp.list
 ruleset=🎥 Disney+,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
