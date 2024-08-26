@@ -97,7 +97,7 @@ custom_proxy_group=🫧 全球直连`select`[]DIRECT
 ;custom_proxy_group=📌 拒绝访问`select`[]REJECT
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 ;custom_proxy_group=🔯 故障转移`fallback`.*`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🔯 故障转移`fallback`(?!.*Traffic).*`http://www.gstatic.com/generate_204.*300,,50
+custom_proxy_group=🔯 故障转移`fallback`(?=.*)^(?!(Traffic).)*$`http://www.gstatic.com/generate_204.*300,,50
 custom_proxy_group=🇭🇰 负载均衡_香港`load-balance`(?=.*(香港|HK|hk|Hong Kong|HongKong|hongkong))^((?!(剩余|流量|标准|中继|福利|15M|2x|3x|4x|5x|6x|7x|8x)).)*$`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇨🇳 负载均衡_台湾`load-balance`(?=.*(台|新北|彰化|TW|Taiwan))^((?!(剩余|流量|标准|中继|2x|3x|4x|5x|6x|7x|8x)).)*$`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇯🇵 负载均衡_日本`load-balance`(?=.*(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan))^((?!(剩余|流量|标准|中继|2x|3x|4x|5x|6x|7x|8x)).)*$`http://www.gstatic.com/generate_204`300,,50
