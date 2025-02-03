@@ -10,7 +10,7 @@ DOMAIN-KEYWORD,onefootball
 DOMAIN-KEYWORD,oneftbl
 # livesoccertv
 DOMAIN-SUFFIX,livesoccertv.com
-IP-CIDR,123.108.119.0/24,no-resolve
-IP-CIDR,112.78.27.0/24,no-resolve
+IP-CIDR,123.108.119.0/24
+IP-CIDR,112.78.27.0/24
 
 
